@@ -5,8 +5,8 @@ This repository contains scripts to reproduce analysis and figures presented in 
 
 The experimental chapters of the thesis have been published and the embargo has been lifted. Further information related to the individual codes can now be found in the following repositories in github.com/BulgarelliD-Lab :
   
-# Barley_B1K (Chapter 2)
+#Barley_B1K (Chapter 2)
 
-# Barley-NT_2020 (Chapter 3)
+#Barley-NT_2020 (Chapter 3)
 
-# Microbiota_mapping (Chapter 4)
+#Microbiota_mapping (Chapter 4)
